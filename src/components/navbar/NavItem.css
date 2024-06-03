@@ -1,0 +1,20 @@
+.NavItem{
+    background-color: rgba(0, 0, 0, 0.17);
+    padding: 10px;
+    line-height: 1.2;
+    font-size: 16px;
+    font-family: Rubik;
+    color:white;
+    border-radius: 10px;
+    margin: 5px;
+    text-align: center;
+}
+.text{
+    color: red;
+    font-size: 20px;
+}
+.NavItem:hover{
+    transform:scale(1.2);
+    color: red;
+
+}
